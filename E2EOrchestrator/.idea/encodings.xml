@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IntegrationLayer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IntegrationLayer/IntegrationLayer-Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IntegrationLayer/IntegrationLayer-Core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IntegrationLayer/IntegrationLayer-Impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IntegrationLayer/IntegrationLayer-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateAndActionLayer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateAndActionLayer/StateAction-App" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateAndActionLayer/StateAction-Core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateAndActionLayer/StateAction-Impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateAndActionLayer/StateAction-Service" charset="UTF-8" />
+  </component>
+</project>
